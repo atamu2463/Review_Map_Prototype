@@ -1,0 +1,2 @@
+# Restaurant_Review_Map
+とある地域の飲食店とその魅力を可視化するマップ
