@@ -1,2 +1,3 @@
-# Restaurant_Review_Map
-とある地域の飲食店とその魅力を可視化するマップ
+# Review_Map_Prototype
+とある地域の飲食店とその魅力を可視化するマップです。
+完成後、すぐ本番運用する予定ではないため、prototypeとつけています。
